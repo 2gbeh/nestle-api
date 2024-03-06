@@ -13,3 +13,6 @@ $ cd ernesto-api
 $ npm install
 $ npm run start
 ```
+
+### Documentation 
+Visit https://docs.yugabyte.com/preview/sample-data/northwind/
